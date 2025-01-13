@@ -1,8 +1,8 @@
 # Secret Number Game
 
-![Zrzut ekranu 2025-01-13 230909](https://github.com/user-attachments/assets/20bb427d-ca5d-43d6-8aa8-ad5eb597704c)
-![Zrzut ekranu 2025-01-13 230847](https://github.com/user-attachments/assets/88de0064-f62b-4493-b955-c0687ec776b5)
-![Zrzut ekranu 2025-01-13 230839](https://github.com/user-attachments/assets/fafa6b99-82da-4d72-abc4-c12893ebf622)
+![Zrzut ekranu 2025-01-13 231530](https://github.com/user-attachments/assets/53cd2a09-0eda-4112-bda0-f5242efefd47)
+![Zrzut ekranu 2025-01-13 231543](https://github.com/user-attachments/assets/fade724f-cb63-4d57-b65a-7eef5631f053)
+![Zrzut ekranu 2025-01-13 231538](https://github.com/user-attachments/assets/2387b1da-d006-47b3-9bd6-3558164cb5db)
 
 ## Description
 
